@@ -39,7 +39,7 @@ html {
 .home {
   background-image: linear-gradient(rgba(0, 0, 0, 0.444), rgba(0, 0, 0, 0.444)),
     url(../imges/hero-bg.jpg);
-  background-position: center;
+  background-position: center center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -65,7 +65,7 @@ html {
   font-weight: 600;
 }
 .home .content h1 {
-  font-size: 2.5rem;
+  font-size: 1.6rem;
 }
 .home .content p {
   font-size: 1.5rem;
